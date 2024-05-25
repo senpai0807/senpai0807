@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Brandon Nguyen and I've been pursuing the path of a software engineer since 2019.
+- 🌱 I’m currently learning the ins and outs of the ReactJS framework, as well as SQL databases.
+- 📫 How to reach me: you can either reach out to me on discord - senpai0807 | or you can reach me at my email bdnguyen@protonmail.com.
